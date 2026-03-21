@@ -1,14 +1,14 @@
 # 🛡️ Cybersecurity Lab Portfolio — Nithishkumar
 
-I build hands-on cybersecurity labs to study how real security controls behave under simulated attack conditions.
+I build hands-on cybersecurity labs to analyze how real-world security controls behave in controlled environments.
 
 My work focuses on:
 
-• Network security architecture validation  
-• Authentication monitoring and failure pattern analysis  
-• Linux privilege escalation detection and system logging analysis  
+- Network security architecture validation  
+- Authentication monitoring and failure pattern analysis  
+- Linux privilege and system activity analysis through logging  
 
-All projects are conducted in controlled lab environments using Packet Tracer, Linux virtual machines, and Python tooling.
+All projects are conducted in isolated lab environments using Cisco Packet Tracer, Linux virtual machines, and Python-based tools.
 
 ---
 
@@ -16,17 +16,17 @@ All projects are conducted in controlled lab environments using Packet Tracer, L
 
 🔗 https://github.com/nithishkumar-cyber/network-segmentation-access-control-lab
 
-Designed and validated a segmented multi-router network environment in Cisco Packet Tracer to study how routing and access control policies affect inter-network communication.
+Designed and validated a segmented multi-router network environment in Cisco Packet Tracer to analyze how routing and access control policies affect inter-network communication.
 
 Key areas explored:
 
-• Structured subnetting and network segmentation  
-• Static routing between routers  
-• DHCP configuration and client IP assignment  
-• Extended ACL policy enforcement  
-• Traffic validation using ping and traceroute  
+- Structured subnetting and network segmentation  
+- Static routing between routers  
+- DHCP configuration and client IP assignment  
+- Extended ACL policy enforcement  
+- Traffic validation using ping and traceroute  
 
-The lab demonstrates how access control policies can enforce communication boundaries between network segments.
+This lab demonstrates how access control policies enforce communication boundaries between network segments.
 
 ---
 
@@ -34,48 +34,48 @@ The lab demonstrates how access control policies can enforce communication bound
 
 🔗 https://github.com/nithishkumar-cyber/python-authentication-testing-toolkit
 
-Developed a Python command-line tool to simulate repeated authentication attempts in a controlled lab environment.
+Developed a Python command-line tool to analyze authentication system behavior in a controlled lab environment.
 
-The goal was to observe how authentication systems respond to multiple failed login attempts and how these events appear in security logs.
+The project focuses on observing how systems respond to repeated login attempts and how these events are recorded in security logs.
 
 Key concepts demonstrated:
 
-• Python CLI tool development  
-• command-line argument handling (`sys.argv`)  
-• wordlist processing and credential iteration  
-• controlled authentication attempt simulation  
-• authentication logging awareness  
+- Python CLI tool development  
+- Command-line argument handling (`sys.argv`)  
+- Credential dataset processing and iteration  
+- Controlled request timing and execution flow  
+- Authentication logging awareness  
 
-This project focuses on understanding authentication failure patterns relevant to security monitoring and detection systems.
+This project highlights authentication event patterns relevant to security monitoring and detection systems.
 
 ---
 
-## 📌 Lab 3 — Linux Privilege Escalation & Log Monitoring Lab
+## 📌 Lab 3 — Linux Privilege & Log Monitoring Lab
 
 🔗 https://github.com/nithishkumar-cyber/linux-privilege-escalation-detection-lab
 
-Simulated common Linux privilege escalation scenarios to observe how system activity appears within authentication and system logs.
+Analyzed Linux privilege-related scenarios to observe how system activity is reflected in authentication and system logs.
 
-The lab explored how privilege escalation techniques and persistence mechanisms generate detectable artifacts in Linux environments.
+The lab explores how system configurations and scheduled tasks generate observable artifacts within Linux environments.
 
 Topics analyzed:
 
-• sudo permission auditing  
-• SUID binary enumeration  
-• cron job persistence review  
-• Linux authentication log inspection  
-• detection-oriented analysis of system activity  
+- Sudo permission auditing  
+- SUID binary enumeration  
+- Cron task analysis  
+- Linux authentication log inspection  
+- Detection-focused analysis of system activity  
 
-This project emphasizes understanding attacker behavior from a defensive monitoring perspective.
+This project emphasizes understanding system behavior through a defensive monitoring perspective.
 
 ---
 
 ## 🎯 Focus Areas
 
-• Network security validation  
-• Linux security monitoring  
-• authentication event analysis  
-• detection-focused cybersecurity labs  
+- Network security validation  
+- Linux system monitoring  
+- Authentication event analysis  
+- Detection-focused cybersecurity labs  
 
 ---
 

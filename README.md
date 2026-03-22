@@ -6,9 +6,8 @@ My work focuses on:
 
 - Network security architecture validation  
 - Authentication monitoring and failure pattern analysis  
-- Linux privilege and system activity analysis through logging  
 
-All projects are conducted in isolated lab environments using Cisco Packet Tracer, Linux virtual machines, and Python-based tools.
+All projects are conducted in isolated lab environments using Cisco Packet Tracer, Python-based tools.
 
 ---
 
@@ -50,32 +49,11 @@ This project highlights authentication event patterns relevant to security monit
 
 ---
 
-## 📌 Lab 3 — Linux Privilege & Log Monitoring Lab
-
-🔗 https://github.com/nithishkumar-cyber/linux-privilege-escalation-detection-lab
-
-Analyzed Linux privilege-related scenarios to observe how system activity is reflected in authentication and system logs.
-
-The lab explores how system configurations and scheduled tasks generate observable artifacts within Linux environments.
-
-Topics analyzed:
-
-- Sudo permission auditing  
-- SUID binary enumeration  
-- Cron task analysis  
-- Linux authentication log inspection  
-- Detection-focused analysis of system activity  
-
-This project emphasizes understanding system behavior through a defensive monitoring perspective.
-
----
 
 ## 🎯 Focus Areas
 
-- Network security validation  
-- Linux system monitoring  
+- Network security validation   
 - Authentication event analysis  
-- Detection-focused cybersecurity labs  
 
 ---
 

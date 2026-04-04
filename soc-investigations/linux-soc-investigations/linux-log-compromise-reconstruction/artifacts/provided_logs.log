@@ -1,0 +1,19 @@
+Jun 10 10:01:22 server sshd[1123]: Failed password for root from 185.143.223.15 port 53422 ssh2
+Jun 10 10:01:25 server sshd[1124]: Failed password for root from 185.143.223.15 port 53422 ssh2
+Jun 10 10:01:29 server sshd[1126]: Failed password for root from 185.143.223.15 port 53422 ssh2
+Jun 10 10:02:10 server sshd[1130]: Accepted password for root from 185.143.223.15 port 53422 ssh2
+Jun 10 10:02:12 server sshd[1130]: pam_unix(sshd:session): session opened for user root
+Jun 10 10:03:01 server sudo: root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 10 10:04:15 server CRON[1201]: (root) CMD (/usr/lib/update-notifier/apt-check)
+Jun 10 10:05:03 server sudo: root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/bash
+Jun 10 10:06:40 server CRON[1240]: (root) CMD (/tmp/backup.sh)
+Jun 10 10:07:02 server sshd[1300]: Accepted password for admin from 192.168.1.10 port 50500 ssh2
+Jun 10 10:07:03 server sshd[1300]: pam_unix(sshd:session): session opened for user admin
+Jun 10 10:08:10 server sshd[1130]: pam_unix(sshd:session): session closed for user root
+Jun 10 10:12:44 server systemd-logind: New session 8 of user admin
+Jun 10 10:15:33 server CRON[1401]: (root) CMD (/tmp/backup.sh)
+Jun 10 10:20:12 server systemd: Starting Daily apt download activities
+Jun 10 10:20:13 server systemd: Finished Daily apt download activities
+Jun 10 10:30:21 server sshd[1405]: Failed password for test from 45.88.92.101 port 40022 ssh2
+Jun 10 10:32:55 server sshd[1420]: Failed password for test from 45.88.92.101 port 40022 ssh2
+Jun 10 10:35:11 server CRON[1500]: (root) CMD (/tmp/backup.sh)

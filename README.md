@@ -96,21 +96,6 @@ Simulated real SOC investigation with noisy logs and confirmed system compromise
 
 ---
 
-#### Project 3 — SOC Final Boss Simulation
-
-- Investigated mixed log dataset with noise
-- Filtered false positives
-- Confirmed attacker access and persistence
-- Delivered:
-    - Attack timeline
-    - Compromise assessment
-    - Full incident report
-
-**Outcome:**  
-Demonstrated end-to-end SOC investigation capability under realistic conditions.
-
----
-
 ### 🔧 Security Tooling
 
 #### Python Authentication Analysis Tool (CLI)
